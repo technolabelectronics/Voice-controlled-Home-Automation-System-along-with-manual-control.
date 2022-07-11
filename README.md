@@ -1,0 +1,1 @@
+# Voice-controlled-Home-Automation-System-along-with-manual-control.
